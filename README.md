@@ -60,4 +60,9 @@ Ausgaben gibt es momentan in folgenden Bereichen:
 - Anwaltskosten
 - Rücklagen für Rechtsstreits…
 
+## Treffen
+Diese Liste beinhaltet nicht Treffen mit Menschen auf der Arbeitsebene in der Verwaltung. Das liegt daran, das diese Gespräche oft auf einer freundschaftlichen/inoffiziellen Ebene stattfinden und es für Menschen nachteilig sein könnte diese zu veröffentlichen.
+
+Ich spreche mit allen nicht faschistichen Bundestagsfraktionen bzw deren abgeordneten mehr oder weniger regelmäßig. 
+
 
