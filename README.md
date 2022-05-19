@@ -31,6 +31,8 @@ Ein Großteil davon über meinen Patreon-Account. Die Summe ist dort monatlich e
 - <€50 Präsentkorb - [The Online PHP Conference](https://thephp.cc/neuigkeiten/the-php-online-conference-2022) Podiumsdiskussion
 - €39/scheinbar nicht verkäuflich - Buch "ABC des freien Wissens" - Dankeschön Podcastaufzeichnung - DLF/Wikimedia Podcast zu offenen Daten
 - €9.19 - 1 DATEV-Geldbörse - Gastgeschenk bei Hintergrundgespräch
+- €97,97 - Honorar iX [Kommentar: GovTech Campus ist fatales Signal für Digitalisierung der Verwaltung](https://www.heise.de/meinung/Kommentar-GovTech-Campus-ist-fatales-Signal-fuer-Digitalisierung-der-Verwaltung-6740007.html)
+
 
 ### 2021
 #### Patreon
