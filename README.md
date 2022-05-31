@@ -46,7 +46,7 @@ Ein Großteil davon über meinen Patreon-Account. Die Summe ist dort monatlich e
 
 #### Sonstiges
 - einzelne Kleinbeträge zu CDU-Verfahrenskosten (zurückgezahlt weil von der CDU übernommen)
-- €9,520.00 - Bertungshonorar [fitko](https://www.fitko.de/) - Standardisierung/Security fitconnect
+- €9,520.00 - Beratungshonorar [fitko](https://www.fitko.de/) - Standardisierung/Security fitconnect
 - €595.00 - [Gastkommentar dbb 12/2021](https://www.dbb.de/mediathek/magazine/dbb-magazin/dbb-magazine-2021.html)
 - €2024.99 - CDU Bundeszentrale - Erstattung der durch sie verursachten Anwaltskosten
 - < €20 - 2 Flaschen Wein am Ende mitgehen lassen - [Code for Germany](https://www.codefor.de/) Vernetzungstreffen
